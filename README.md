@@ -631,3 +631,5 @@ Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/s
 ##Other Tutorials
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
 - For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).
+
+fork by ycp.
